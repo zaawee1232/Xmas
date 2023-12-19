@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xma-s-ks-suta
+    name: xma-s-ks-suta-yk
     env: python
     region: Oregon
     plan: free
