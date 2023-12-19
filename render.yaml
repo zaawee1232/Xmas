@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xma-s-ks-suta-yk
+    name: yuki-xmas-kasosuta
     env: python
     region: Oregon
     plan: free
